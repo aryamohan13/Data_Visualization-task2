@@ -15,5 +15,5 @@ Data Visualization & Storytelling
 
 📂 Files Included
  superstore.csv (Raw dataset used in Power BI)          
- Task2-Data_Visualization.pdf (Final exported visual report (PDF))   
+ Data_Visualization.pdf (Final exported visual report (PDF))   
  README.md (Project summary)                    
