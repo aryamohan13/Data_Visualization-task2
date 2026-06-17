@@ -1,4 +1,4 @@
-Task 2 – Data Visualization & Storytelling
+Data Visualization & Storytelling
 
 📁 Dataset Used
 - Superstore Orders Data 
